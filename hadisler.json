@@ -1,0 +1,159 @@
+[
+    {
+      "text": "Biricik Peygamberimiz Hazreti Muhammed Mustafa (s.a.v) şöyle buyurmuştur: 'İslâm, güzel ahlâktır.' (Kenzü’l-Ummâl, II/17, HadisNo. 5225)",
+      "color": "#FADADD",
+      "keywords": ["ahlak", "erdem", "güzel"]
+    },
+    {
+      "text": "Biricik Peygamberimiz Hazreti Muhammed Mustafa (s.a.v) şöyle buyurmuştur: 'İnsanlara merhamet etmeyene Allah merhamet etmez.' (Müslim, Fedâil, 66; Tirmizî, Birr, 16)",
+      "color": "#D1E8E2",
+      "keywords": ["merhamet", "sevgi", "iyilik", "şefkat"]
+    },
+    {
+      "text": "Biricik Peygamberimiz Hazreti Muhammed Mustafa (s.a.v) şöyle buyurmuştur: 'İman etmedikçe cennete giremezsiniz, birbirinizi sevmedikçe de (gerçek anlamda) iman etmiş olamazsınız.' (Müslim, Îmân, 93; Tirmizî, Sıfâtu’l-Kıyâme, 56)",
+      "color": "#FFDFD3",
+      "keywords": ["iman", "sevgi"]
+    },
+    {
+      "text": "Biricik Peygamberimiz Hazreti Muhammed Mustafa (s.a.v) şöyle buyurmuştur: 'Küçüklerimize merhamet etmeyen, büyüklerimize saygı göstermeyen bizden değildir.' (Tirmizî, Birr, 15; Ebû Dâvûd, Edeb, 66)",
+      "color": "#D4C1EC",
+      "keywords": ["merhamet", "saygı", "çocuk", "büyük", "küçük", "sevgi"]
+    },
+    {
+      "text": "Biricik Peygamberimiz Hazreti Muhammed Mustafa (s.a.v) şöyle buyurmuştur: 'Üç dua vardır ki, bunlar şüphesiz kabul edilir. Mazlumun duası, misafirin duası ve babanın evladına duası.' (İbn Mâce, Dua, 11)",
+      "color": "#FCE4B6",
+      "keywords": ["mazlum", "misafir", "baba", "evlat", "dua", "haksızlığa uğrayan"]
+    },
+    {
+      "text": "Biricik Peygamberimiz Hazreti Muhammed Mustafa (s.a.v) şöyle buyurmuştur: 'Allah’ın rızası, anne ve babanın rızasındadır. Allah’ın öfkesi de anne babanın öfkesindedir.' (Tirmizî, Birr, 3)",
+      "color": "#B8E2F2",
+      "keywords": ["aile" , "anne", "baba", "rıza", "öfke", "ebeveyn"]
+    },
+    {
+      "text": "Biricik Peygamberimiz Hazreti Muhammed Mustafa (s.a.v) şöyle buyurmuştur: 'Bir Müslümanın diktiği ağaçtan veya ektiği ekinden insan, hayvan ve kuşların yedikleri şeyler, o Müslüman için birer sadakadır.' (Buhârî, Edeb, 27; Müslim, Müsâkât, 7, 10)",
+      "color": "#B5EAD7",
+      "keywords": ["çevre" , "doğa", "ağaç", "sadaka", "hayvan"]
+    },
+    {
+      "text": "Biricik Peygamberimiz Hazreti Muhammed Mustafa (s.a.v) şöyle buyurmuştur: 'Mü’minin başka hiç kimsede bulunmayan ilginç bir hâli vardır; O’nun her işi hayırdır. Eğer bir genişliğe (nimete) kavuşursa şükreder ve bu onun için bir hayır olur. Eğer bir darlığa (musibete) uğrarsa sabreder ve bu da onun için bir hayır olur.' (Müslim, Zühd, 64; Dârim”, Rikâk, 61)",
+      "color": "#FFD3B6",
+      "keywords": ["darlık", "genişlik", "nimet", "musibet", "sabır", "şükür"]
+    },
+    {
+      "text": "Biricik Peygamberimiz Hazreti Muhammed Mustafa (s.a.v) şöyle buyurmuştur: 'Her insan hata eder. Hata işleyenlerin en hayırlıları tevbe edenlerdir.' (Tirmizî, Kıyâme, 49; İbn Mâce, Zühd, 30)",
+      "color": "#FFB6C1",
+      "keywords": ["tövbe", "hata", "günah", "tevbe", "hayırlı insan"]
+    },
+    {
+      "text": "Biricik Peygamberimiz Hazreti Muhammed Mustafa (s.a.v) şöyle buyurmuştur: 'İnsanların sende görmesinden hoşlanmadığın şeyi yalnızken de işleme.' (Camiüssağir-7973)",
+      "color": "#C5E1A5",
+      "keywords": ["murakabe", "ahlak", "yalnızlık", "gizlilik"]
+    },
+    {
+      "text": "Biricik Peygamberimiz Hazreti Muhammed Mustafa (s.a.v) şöyle buyurmuştur: 'Allah’a ve ahiret gününe imân eden kimse, komşusuna eziyet etmesin. Allah’a ve ahiret gününe imân eden misafirine ikramda bulunsun. Allah’a ve ahiret gününe imân eden kimse, ya hayır söylesin veya sussun.' (Buhârî, Edeb, 31, 85; Müslim, Îmân, 74, 75)",
+      "color": "#F8BBD0",
+      "keywords": ["misafir", "komşu", "iman", "ahiret", "gün", "eziyet", "ikram", "hayır", "sükut", "konuşmak"]
+    },
+    {
+      "text": "Biricik Peygamberimiz Hazreti Muhammed Mustafa (s.a.v) şöyle buyurmuştur: 'Allah sizin ne dış görünüşünüze ne de mallarınıza bakar. Ama o sizin kalplerinize ve işlerinize bakar.' (Müslim, Birr, 33; İbn Mâce, Zühd, 9)",
+      "color": "#E6EE9C",
+      "keywords": ["dış görünüş", "kalp", "mal", "iş", "amel", "niyet", "hayır"]
+    },
+    {
+      "text": "Biricik Peygamberimiz Hazreti Muhammed Mustafa (s.a.v) şöyle buyurmuştur: 'Ölen herkes pişmanlık duyar: İyi ise daha fazla iyilik yapmadığına, kötü ise kötülüğü niçin bırakmadığına pişman olur.' (Camiüssağir-7987)",
+      "color": "#B3E5FC",
+      "keywords": ["ölüm", "pişmanlık", "iyi", "kötü", "hayat", "son", "ahiret", "ölü", "meyyit"]
+    },
+    {
+      "text": "Biricik Peygamberimiz Hazreti Muhammed Mustafa (s.a.v) şöyle buyurmuştur: '(Mümin) kardeşine tebessüm etmen sadakadır. İyiliği emredip kötülükten sakındırman sadakadır. Yolunu kaybeden kimseye yol göstermen sadakadır. Yoldan taş, diken, kemik gibi şeyleri kaldırıp atman da senin için sadakadır.' (Tirmizî, Birr, 36)",
+      "color": "#CE93D8",
+      "keywords": ["sadaka", "tebessüm", "iyilik", "emretmek", "sakındırmak", "yol", "kaybolmak", "kaldırmak", "atmak", "eziyet"]
+    },
+    {
+      "text": "Biricik Peygamberimiz Hazreti Muhammed Mustafa (s.a.v) şöyle buyurmuştur: 'Hiç şüphe yok ki doğruluk iyiliğe götürür. İyilik de cennete götürür. Kişi doğru söyleye söyleye Allah katında sıddîk (doğru sözlü) diye yazılır. Yalancılık kötüye götürür. Kötülük de cehenneme götürür. Kişi yalan söyleye söyleye Allah katında kezzâb (çok yalancı) diye yazılır.' (Buhârî, Edeb, 69; Müslim, Birr, 103, 104)",
+      "color": "#FFCC80",
+      "keywords": ["doğruluk", "iyilik", "yalan", "kötülük", "sıddık", "kezzab", "cennet", "cehennem", "sıddık", "yalancı"]
+    },
+    {
+      "text": "Biricik Peygamberimiz Hazreti Muhammed Mustafa (s.a.v) şöyle buyurmuştur: '(Mümin) kardeşinle münakaşa etme, onun hoşuna gitmeyecek şakalar yapma ve ona yerine getirmeyeceğin bir söz verme.' (Tirmizî, Birr, 58)",
+      "color": "#A5D6A7",
+      "keywords": ["söz", "söz vermek", "sözünde durmak", "kardeş", "münakaşa", "şaka", "hoş", "güzel"]
+    },
+    {
+      "text": "Biricik Peygamberimiz Hazreti Muhammed Mustafa (s.a.v) şöyle buyurmuştur: 'Birbirinize buğuz etmeyin, birbirinize haset etmeyin, birbirinize arka çevirmeyin; ey Allah’ın kulları, kardeş olun. Bir Müslümana, üç günden fazla (din) kardeşi ile dargın durması helal olmaz.' (Buhârî, Edeb, 57, 58)",
+      "color": "#FFAB91",
+      "keywords": ["kardeşlik", "küsl", "buğuz", "haset", "dargın", "helal", "haram", "üç gün", "müslüman"]
+    },
+    {
+      "text": "Biricik Peygamberimiz Hazreti Muhammed Mustafa (s.a.v) şöyle buyurmuştur: 'Müslüman Müslümanın kardeşidir. Ona zulmetmez, onu (düşmanına) teslim etmez. Kim, (mümin) kardeşinin bir ihtiyacını giderirse, Allah da onun bir ihtiyacını giderir. Kim Müslümanı bir sıkıntıdan kurtarırsa, bu sebeple Allah da onu kıyamet günü sıkıntılarının birinden kurtarır. Kim bir Müslümanı(n kusurunu) örterse, Allah da kıyamet günü onu(n kusurunu) örter.' (Buhârî, Mezâlim, 3; Müslim, Birr, 58)",
+      "color": "#81D4FA",
+      "keywords": ["kusur", "kardeş", "müslüman", "zulüm", "teslim", "ihtiyaç", "sıkıntı", "kurtarmak", "örtmek", "kıyamet"]
+    },
+    {
+      "text": "Biricik Peygamberimiz Hazreti Muhammed Mustafa (s.a.v) şöyle buyurmuştur: 'Müslüman, insanların elinden ve dilinden emin olduğu kimsedir.' (Tirmizî, Îmân, 12; Nesâî, Îmân, 8)",
+      "color": "#D7CCC8",
+      "keywords": ["emin olmak", "güven", "güvenilir", "müslüman", "insan", "el", "dil"]
+    },
+    {
+      "text": "Biricik Peygamberimiz Hazreti Muhammed Mustafa (s.a.v) şöyle buyurmuştur: 'Zarar vermek ve zarara zararla karşılık vermek yoktur.' (İbn Mâce, Ahkâm, 17; Muvatta’, Akdıye, 31)",
+      "color": "#CFD8DC",
+      "keywords": ["zarar", "zarar vermek", "ceza"]
+    },
+    {
+      "text": "Biricik Peygamberimiz Hazreti Muhammed Mustafa (s.a.v) şöyle buyurmuştur: 'Kim kötü ve çirkin bir iş görürse, onu eliyle düzeltsin; eğer buna gücü yetmiyorsa, diliyle düzeltsin; buna da gücü yetmezse, kalben karşı koysun. Bu da imanın en zayıf derecesidir.' (Müslim, Îmân, 78; Ebû Dâvûd, Salât, 248)",
+      "color": "#FF8A65",
+      "keywords": ["kötü", "çirkin", "düzelme", "güç", "iman", "zayıf"]
+    },
+    {
+      "text": "Biricik Peygamberimiz Hazreti Muhammed Mustafa (s.a.v) şöyle buyurmuştur: 'İman, yetmiş küsur derecedir. En üstünü 'Lâ ilâhe illallah (Allah’tan başka ilah yoktur)' sözüdür, en düşük derecesi de rahatsız edici bir şeyi yoldan kaldırmaktır. Haya da imandandır.' (Buhârî, Îmân, 3; Müslim, Îmân, 57, 58)",
+      "color": "#90CAF9",
+      "keywords": ["haya", "iman", "derece", "rahatsız", "yol", "kaldırmak", "Allah", "utanmak", "La ilahe illallah"]
+    },
+    {
+      "text": "Biricik Peygamberimiz Hazreti Muhammed Mustafa (s.a.v) şöyle buyurmuştur: 'Allah, sizden birinizin yaptığı işi, ameli ve görevi sağlam ve iyi yapmasından hoşnut olur.' (Taberânî, el-Mu’cemü’l-Evsat, 1/275; Beyhakî, Şu’abü’l-Îmân, IV/334)",
+      "color": "#A1887F",
+      "keywords": ["iş", "amel", "görev", "sağlam", "iyi", "hoşnut", "Allah"]
+    },
+    {
+      "text": "Biricik Peygamberimiz Hazreti Muhammed Mustafa (s.a.v) şöyle buyurmuştur: 'Nerede olursan ol Allah’a karşı gelmekten sakın; yaptığın kötülüğün arkasından bir iyilik yap ki bu onu yok etsin. İnsanlara karşı güzel ahlakın gereğine göre davran.' (Tirmizî, Birr, 55)",
+      "color": "#E57373",
+      "keywords": ["güzel ahlak", "Allah", "kötülük", "iyilik", "insan", "sakınmak", "güzel davranış", "gizlilik", "tevbe", "tövbe"]
+    },
+    {
+      "text": "Biricik Peygamberimiz Hazreti Muhammed Mustafa (s.a.v) şöyle buyurmuştur: 'Mümin, bir delikten iki defa sokulmaz.(Mümin, iki defa aynı yanılgıya düşmez)' (Buhârî, Edeb, 83; Müslim, Zühd, 63)",
+      "color": "#64B5F6",
+      "keywords": ["kandırılmak", "yanılgı", "mümin", "düşmek", "yanılmak"]
+    },
+    {
+      "text": "Biricik Peygamberimiz Hazreti Muhammed Mustafa (s.a.v) şöyle buyurmuştur: 'Hayra vesile olan, hayrı yapan gibidir.' (Tirmizî, İlm, 14)",
+      "color": "#81C784",
+      "keywords": ["hayır", "vesile", "yapmak", "yapıcı", "yardım", "yardımcı", "hayırsever"]
+    },
+    {
+      "text": "Biricik Peygamberimiz Hazreti Muhammed Mustafa (s.a.v) şöyle buyurmuştur: 'İnsanların peygamberlerden öğrenegeldikleri sözlerden biri de. 'Utanmadıktan sonra dilediğini yap!' sözüdür.' (Buhârî, Enbiyâ, 54; EbuDâvûd, Edeb, 6)",
+      "color": "#BA68C8",
+      "keywords": ["utanmak", "edep", "haya"]
+    },
+    {
+      "text": "Biricik Peygamberimiz Hazreti Muhammed Mustafa (s.a.v) şöyle buyurmuştur: 'Kolaylaştırınız, güçleştirmeyiniz, müjdeleyiniz, nefret ettirmeyiniz.' (Buhârî, İlm, 12; Müslim, Cihâd, 6)",
+      "color": "#7986CB",
+      "keywords": ["müjde", "kolaylaştırmak", "güçleştirmek", "nefret", "sevindirmek", "sevindirici", "kolay", "güç", "müjdelemek", "nefret ettirmemek", "zorlaştırmamak", "kolaylaştırmamak", "zor"]
+    },
+    {
+      "text": "Biricik Peygamberimiz Hazreti Muhammed Mustafa (s.a.v) şöyle buyurmuştur: 'Mümin güzel koku satan kimseye benzer. Onunla beraber oturursan sana faydası olur, beraber yürürsen sana faydası olur, beraber iş yaparsan yine sana faydası olur.' (MK13541 Taberânî, el-Mu’cemü’l-kebîr, XII, 319)",
+      "color": "#DCE775",
+      "keywords": ["mümin", "koku", "fayda", "beraberlik", "iyi", "güzel", "satıcı", "iş", "yürümek", "oturmak"]
+    },
+    {
+      "text": "Biricik Peygamberimiz Hazreti Muhammed Mustafa (s.a.v) şöyle buyurmuştur: 'Allah, yanılarak, unutarak ve zor kullanılarak yaptıklarından dolayı ümmetimi sorumlu tutmaz.' (İM2043 İbn Mâce, Talâk, 16)",
+      "color": "#AED581",
+      "keywords": ["sorumlu", "yanılmak", "unutmak", "zor kullanmak", "Allah", "ümmet", "sorumluluk", "günah", "ceza", "yükümlü"]
+    }
+  ]
+  
+
+
+
+
+
+
