@@ -15,6 +15,8 @@ Kullanıcı bir soru sorduğunda, **Hadis-i Şerifler'den** ilham veren mesajlar
 
 - Yeni şeyler denemek ve farklı bakış açıları kazanmak harika! Geri bildirimlerinizi bekliyorum 🙌🚀
 
+- site linki: https://rabianuracarturk.github.io/web_denemesi/
+
 - İşte web sitemden bazı görseller:
 
 
