@@ -17,11 +17,11 @@ Kullanıcı bir soru sorduğunda, **Hadis-i Şerifler'den** ilham veren mesajlar
 
 - site linki: https://rabianuracarturk.github.io/web_denemesi/
 
+- anaktar kelime veya soru girerek deneyebilirsiniz
+
 - İşte web sitemden bazı görseller:
 
-
-
-![image](https://github.com/user-attachments/assets/efbf8aeb-6306-4e25-9175-069bac31da7c)
+![image](https://github.com/user-attachments/assets/23e25627-137c-44f4-96dd-de7d49064d4f)
 
 
 ![image](https://github.com/user-attachments/assets/7b942b79-d94c-4381-b3bc-1235a2ca6a73)
